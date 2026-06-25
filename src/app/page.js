@@ -35,7 +35,7 @@ export default function Home() {
               <div className="absolute -inset-0.5 rounded-full bg-gradient-to-r from-primary via-secondary to-accent opacity-75 blur-md group-hover:opacity-100 transition duration-300" />
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/assets/naveen_profile.png"
+                src="./assets/naveen_profile.png"
                 alt="Naveen J Profile Avatar"
                 className="relative rounded-full w-28 h-28 object-cover border-2 border-background shadow-xl"
               />
@@ -104,7 +104,7 @@ export default function Home() {
               Get In Touch
             </a>
             <a
-              href="/assets/Naveen-full-stack-Resume.pdf"
+              href="./assets/Naveen-full-stack-Resume.pdf"
               download="Naveen-full-stack-Resume.pdf"
               className="flex items-center gap-2 rounded-full px-7 py-3.5 border border-border bg-card/40 font-bold text-foreground transition-all duration-300 hover:scale-105 hover:bg-muted active:scale-98"
             >
